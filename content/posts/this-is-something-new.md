@@ -3,7 +3,6 @@ title: This is something new
 subtitle: Another Lorem Page
 date: '2021-09-01'
 thumb_img_alt: Cubes of bamboo
-excerpt: lorem-ipsum
 hide_header: false
 seo:
   title: ''
