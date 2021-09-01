@@ -15,6 +15,7 @@ thumb_img_path: images/shutterstock_57034363.jpg
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
+content_img_path: images/shutterstock_57034363-3b0ee67d.jpg
 ---
 ## Lorem ipsum
 
