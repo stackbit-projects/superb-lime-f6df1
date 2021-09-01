@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/shutterstock_57034363.jpg
 ---
 ## Lorem ipsum
 
